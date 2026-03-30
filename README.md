@@ -36,7 +36,7 @@ Studied phishing attacks and created a case study along with prevention tips.
 
 ## 🔗 Useful Links
 - Google Form Link: https://docs.google.com/forms/d/1hGfowrg2GI4QHvTXM4Gs7LM2oj3JodHRjEg4s4_DfrQ/edit
-- GitHub Repository: (your repo link)
+- GitHub Repository: https://github.com/mahendra25bai10940-byte/digital-literacy-project
 
 ---
 
